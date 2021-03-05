@@ -12,3 +12,7 @@ Technologies used
 Prism Xamarim Forms | https://prismlibrary.com/docs/xamarin-forms/Getting-Started.html
 
 Firebase Realtime Database | https://firebase.google.com/docs/database
+
+Syncfusion | https://www.syncfusion.com/xamarin-ui-controls
+
+API | https://restcountries.eu/
